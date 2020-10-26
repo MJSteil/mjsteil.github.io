@@ -1,16 +1,17 @@
-# Author of this web page
+# Legal notice
+## Author of this web page
 
 Martin Jakob Steil<br/>
 E-Mail: [martinjsteil@gmail.com](mailto:martinjsteil@gmail.com)<br/>
 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Martin Jakob Steil<br/>
 
-# Legal notice (Datenschutzerklärung gemäß Artikel 3 EU DSGVO)
-## 1. Name und Kontaktdaten des Verantwortlichen
+## Datenschutzerklärung gemäß Artikel 3 EU DSGVO
+### 1. Name und Kontaktdaten des Verantwortlichen
 
 Martin Jakob Steil<br/>
 E-Mail: [martinjsteil@gmail.com](mailto:martinjsteil@gmail.com)<br/>
 
-## 2. Verarbeitung personenbezogener Daten im Rahmen des Betriebs dieser Seite
+### 2. Verarbeitung personenbezogener Daten im Rahmen des Betriebs dieser Seite
 
 Personenbezogene Daten der Nutzer dieser Internetseite werden verarbeitet, soweit dies zum Zweck des Betriebs einer funktionsfähigen Internetseite erforderlich ist. Hierfür werden automatisiert folgende Daten von dem diese Seite aufrufenden Rechner erhoben:
 * die IP-Adresse des Rechners, mit dem, mit dem diese Internetseite aufgerufen wird;
@@ -22,11 +23,11 @@ Die IP-Adresse wird nur solange gespeichert, wie dies zur Erbringung ordnungsgem
 
 Rechtsgrundlage dieser Verarbeitung personenbezogener Daten ist Art. 6 Abs. 1 Satz 1 lit. f) der Verordnung (EU) 2016/679 (Datenschutzgrundverordnung – DSGVO). Das berechtigte Interesse an der Datenverarbeitung liegt im ordnungsgemäßen Betrieb dieser Internetseite.
 
-## 3. Kategorien von Empfängern personenbezogener Daten
+### 3. Kategorien von Empfängern personenbezogener Daten
 
 Die im Rahmen der unter 2. beschriebenen Vorgänge erhobenen Daten werden bei einem Auftragsdatenverarbeiter im Inland verarbeitet. Dieser erbringt Dienste zum technischen Betrieb und zur Wartung dieser Internetseite.
 
-## 4. Rechte der Betroffenen
+### 4. Rechte der Betroffenen
 
 Personen, deren Daten im Rahmen der unter 2. beschriebenen Vorgänge erhoben werden, haben folgende Rechte:
 
@@ -88,7 +89,7 @@ g) Recht auf Einschränkung der Verarbeitung
 
 Der Betroffene hat das Recht zur Beschwerde bei einer zuständigen Aufsichtsbehörde.
 
-## 5. Weitere Angaben
+### 5. Weitere Angaben
 
 Die Bereitstellung der personenbezogenen Daten ist gesetzlich oder vertraglich nicht vorgeschrieben. Ein Vertragsschluß ist nicht erforderlich. Es besteht keine Pflicht, personenbezogene Daten bereitzustellen. Werden personenbezogene Daten nicht im unter 2. beschriebenen Rahmen zur Verfügung gestellt, ist eine Nutzung dieser Internetseite nicht möglich.
 Eine automatisierte Entscheidungsfindung und sogenanntes Profiling finden nicht statt.
