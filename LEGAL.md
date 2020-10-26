@@ -1,14 +1,14 @@
 # Author of this web page
 
-Martin Jakob Steil</br>
-E-Mail: martinjsteil@gmail.com</br>
-Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Martin Jakob Steil</br>
+Martin Jakob Steil<br/>
+E-Mail: [martinjsteil@gmail.com](mailto:martinjsteil@gmail.com)<br/>
+Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Martin Jakob Steil<br/>
 
 # Legal notice (Datenschutzerklärung gemäß Artikel 3 EU DSGVO)
 ## 1. Name und Kontaktdaten des Verantwortlichen
 
-Martin Jakob Steil</br>
-E-Mail: martinjsteil@gmail.com</br>
+Martin Jakob Steil<br/>
+E-Mail: [martinjsteil@gmail.com](mailto:martinjsteil@gmail.com)<br/>
 
 ## 2. Verarbeitung personenbezogener Daten im Rahmen des Betriebs dieser Seite
 
@@ -93,4 +93,4 @@ Der Betroffene hat das Recht zur Beschwerde bei einer zuständigen Aufsichtsbeh�
 Die Bereitstellung der personenbezogenen Daten ist gesetzlich oder vertraglich nicht vorgeschrieben. Ein Vertragsschluß ist nicht erforderlich. Es besteht keine Pflicht, personenbezogene Daten bereitzustellen. Werden personenbezogene Daten nicht im unter 2. beschriebenen Rahmen zur Verfügung gestellt, ist eine Nutzung dieser Internetseite nicht möglich.
 Eine automatisierte Entscheidungsfindung und sogenanntes Profiling finden nicht statt.
 
-Quelle: http://www.muster-impressum.de
+Quelle: [www.muster-impressum.de](http://www.muster-impressum.de)
