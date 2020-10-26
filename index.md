@@ -1,5 +1,4 @@
-# Martin Jakob Steil
-Various presentations and talks
+# Talks and Poster
 
 ## Talks
 * [Solving (QFTs) convection–diffusion equations with finite volume methods](../talks/20190717-KT-Heidelberg_handout.pdf)<br/>
