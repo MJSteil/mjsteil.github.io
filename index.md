@@ -1,7 +1,7 @@
 # Talks and Poster
 
 ## Talks
-* [Solving (QFTs) convection–diffusion equations with finite volume methods](../talks/20190717-KT-Heidelberg_handout.pdf)<br/>
+* [Solving ~~QFTs~~ convection–diffusion equations with finite volume methods](../talks/20190717-KT-Heidelberg_handout.pdf)<br/>
 Joint talk with Adrian Koenigstein at Mini-Workshop 'QCD & beyond with the FRG', Heidelberg (2019).
 
 ## Poster
