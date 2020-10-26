@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: Personal Page
+author: Martin Jakob Steil
+email: "martinjsteil@gmail.com"
+
+exclude:
+  - LICENSE
+  - README.md
