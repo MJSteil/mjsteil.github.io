@@ -4,6 +4,10 @@
 * [Solving ~~QFTs~~ convection–diffusion equations with finite volume methods](../talks/20190717-KT-Heidelberg_handout.pdf)<br/>
 Joint talk with Adrian Koenigstein at Mini-Workshop 'QCD & beyond with the FRG', Heidelberg (2019).
 
+* [Inhomogeneous chiral condensates within the Functional Renormalisation Group](../talks/20201111_HPSI_handout.pdf)<br/>
+Talk at XXXII International (ONLINE) Workshop on High Energy Physics ”Hot problems of Strong Interactions”, Online (2020).
+
+
 ## Poster
 * [Inhomogeneous chiral condensates in QCD-inspired models via the FRG](../poster/20191105-SIFT_Workshop_Jena.pdf)<br/>
 Poster for SIFT workshop, Jena (2019)
