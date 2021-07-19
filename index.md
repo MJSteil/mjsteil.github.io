@@ -11,7 +11,7 @@ Joint talk with Adrian Koenigstein at Mini-Workshop 'QCD & beyond with the FRG',
 ## Poster
 
 * [Numerical fluid dynamics for FRG flow equations: Zero-dimensional QFTs as numerical test cases](../poster/20210715-QMBS_Workshop_Heidelberg.pdf)<br/>
-Poster for workshop, Heidelberg (2021).
+Poster for QMBS workshop, Heidelberg (2021).
 
 * [Inhomogeneous chiral condensates in QCD-inspired models via the FRG](../poster/20191105-SIFT_Workshop_Jena.pdf)<br/>
 Poster for SIFT workshop, Jena (2019).
