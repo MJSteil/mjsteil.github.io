@@ -12,6 +12,10 @@ Talk at XXXII International (ONLINE) Workshop on High Energy Physics ”Hot prob
 * [Inhomogeneous chiral condensates in QCD-inspired models via the FRG](../poster/20191105-SIFT_Workshop_Jena.pdf)<br/>
 Poster for SIFT workshop, Jena (2019)
 
+
+* [Numerical fluid dynamics for FRG flow equations: Zero-dimensional QFTs as numerical test cases](../poster/20210715-QMBS_Workshop_Heidelberg.pdf)<br/>
+Poster for workshop, Heidelberg (2021)
+
 [![License: CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
