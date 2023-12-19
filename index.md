@@ -1,4 +1,11 @@
-# Talks and Poster
+# Publications, Talks, and Poster
+
+## Publications
+
+* Detecting inhomogeneous chiral condensation from the bosonic two-point function in the (1 + 1)-dimensional Gross–Neveu model in the mean-field approximation<br/>
+Adrian Koenigstein, Laurin Pannullo, Stefan Rechenberger, Martin J. Steil, and Marc Winstel<br/>
+Published in: [J.Phys.A 55 (2022) 37, 375402](https://doi.org/10.1088/1751-8121/ac820a)<br/>
+e-Print: [2112.07024 [hep-ph]](https://arxiv.org/abs/2112.07024)
 
 ## Talks
 
