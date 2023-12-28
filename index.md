@@ -7,7 +7,7 @@ Adrian Koenigstein, Laurin Pannullo, Stefan Rechenberger, Martin J. Steil, and M
 Published in: [J.Phys.A 55 (2022) 37, 375402](https://doi.org/10.1088/1751-8121/ac820a)<br/>
 e-Print: [2112.07024 [hep-ph]](https://arxiv.org/abs/2112.07024)
 
-* **Bosonic fluctuations in the (1+1)(1+1)-dimensional Gross-Neveu(-Yukawa) model at varying μ and T and finite N**<br/>
+* **Bosonic fluctuations in the (1+1)-dimensional Gross-Neveu(-Yukawa) model at varying μ and T and finite N**<br/>
 Jonas Stoll, Niklas Zorbach, Adrian Koenigstein, and Martin J. Steil (Aug 24, 2021)<br/>
 e-Print: [2108.10616 [hep-ph]](https://arxiv.org/abs/2108.10616)
 
