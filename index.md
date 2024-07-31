@@ -1,3 +1,10 @@
+# Dissertation
+* **From zero-dimensional theories to inhomogeneous phases with the functional renormalization group**<br/>
+Martin J. Steil<br/>
+PhD thesis, Technische Universität Darmstadt, 2024<br/>
+DOI: [10.26083/tuprints-00027380](https://doi.org/10.26083/tuprints-00027380)<br/>
+Repository: [github.com/MJSteil/PhD-Thesis](https://github.com/MJSteil/PhD-Thesis)
+
 # Publications, Talks, and Poster
 
 ## Publications
