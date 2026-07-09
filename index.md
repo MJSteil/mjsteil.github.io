@@ -9,6 +9,15 @@ Repository: [github.com/MJSteil/PhD-Thesis](https://github.com/MJSteil/PhD-Thesi
 
 ## Publications
 
+* **Magnetized neutron stars: perturbative versus fully-numerical approaches**<br/>
+Debarati Chatterjee, Daw Guttmann, Jérôme Novak, Micaela Oertel, and Martin Jakob Steil (May 19, 2026)<br/>
+Published in: [Universe 2026, 12, 170](https://doi.org/10.3390/universe12060170)<br/>
+e-Print: [2605.19761 [astro-ph.HE]](https://arxiv.org/abs/2605.19761)
+
+* **Functional Renormalization Group flows as diffusive Hamilton-Jacobi-type equations**<br/>
+Adrian Koenigstein, Martin J. Steil, and Stefan Floerchinger
+e-Print: [2512.05973 [hep-th]](https://arxiv.org/abs/2512.05973)
+
 * **Detecting inhomogeneous chiral condensation from the bosonic two-point function in the (1 + 1)-dimensional Gross–Neveu model in the mean-field approximation**<br/>
 Adrian Koenigstein, Laurin Pannullo, Stefan Rechenberger, Martin J. Steil, and Marc Winstel (Dec 13, 2021)<br/>
 Published in: [J.Phys.A 55 (2022) 37, 375402](https://doi.org/10.1088/1751-8121/ac820a)<br/>
@@ -52,4 +61,4 @@ Poster for SIFT workshop, Jena (2019).
 [![License: CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-<i>Martin Jakob Steil, 2024</i>
+<i>Martin Jakob Steil, 2026</i>
