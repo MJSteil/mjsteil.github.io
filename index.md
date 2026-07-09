@@ -15,7 +15,7 @@ Published in: [Universe 2026, 12, 170](https://doi.org/10.3390/universe12060170)
 e-Print: [2605.19761 [astro-ph.HE]](https://arxiv.org/abs/2605.19761)
 
 * **Functional Renormalization Group flows as diffusive Hamilton-Jacobi-type equations**<br/>
-Adrian Koenigstein, Martin J. Steil, and Stefan Floerchinger
+Adrian Koenigstein, Martin J. Steil, and Stefan Floerchinger (Dec 29, 2025) <br/>
 e-Print: [2512.05973 [hep-th]](https://arxiv.org/abs/2512.05973)
 
 * **Detecting inhomogeneous chiral condensation from the bosonic two-point function in the (1 + 1)-dimensional Gross–Neveu model in the mean-field approximation**<br/>
